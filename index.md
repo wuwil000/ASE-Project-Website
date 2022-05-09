@@ -1,5 +1,7 @@
 # CNC Machine
 
+![img](https://www.urdesignmag.com/wp-content/uploads/2020/05/how-are-cnc-machines-impacting-modern-manufacturing-2.jpg)
+
 # About
 
 Our capstone project idea is a multi-use CNC machine built from scratch which will be able to engrave, drill, and cut a wide variety of materials, especially wood and metal. 
