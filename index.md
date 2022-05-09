@@ -1,9 +1,5 @@
 ## CNC Machine
 
-You can use the [editor on GitHub](https://github.com/RW-77/ASE-Project-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### About
 
 Our capstone project idea is a multi-use CNC machine built from scratch which will be able to engrave, drill, and cut a wide variety of materials, especially wood and metal. 
@@ -29,7 +25,8 @@ Minimal viable website created.
 ## Further Notes:
 William and Ivan:
 1. Create a github account if you have not already. I will then give you access to the github respository for you to make changes.
-2. Editing the website for know will be changing the index.md file which is markdown right now.
+2. The website is markdown right now. Edit the .md file.
+[edit link](https://github.com/RW-77/ASE-Project-Website/edit/gh-pages/index.md)
 3. Documentation is below:
 [Link](https://docs.github.com/categories/github-pages-basics/)
 [Link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
