@@ -26,9 +26,9 @@ Minimal viable website created.
 William and Ivan:
 1. Create a github account if you have not already. I will then give you access to the github respository for you to make changes.
 2. The website is markdown right now. Edit the .md file.
-[edit link](https://github.com/RW-77/ASE-Project-Website/edit/gh-pages/index.md)
+[Website edit page (requires authentication)](https://github.com/RW-77/ASE-Project-Website/edit/gh-pages/index.md)
 3. Documentation is below:
-[Link](https://docs.github.com/categories/github-pages-basics/)
-[Link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Github Pages Basics](https://docs.github.com/categories/github-pages-basics/)
+[Formatting Documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 **Website will be revamped during the summer.**
