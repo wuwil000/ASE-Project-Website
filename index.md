@@ -30,7 +30,7 @@ William and Ivan:
 2. The website is markdown right now. Edit the .md file.
 [Website edit page (requires authentication)](https://github.com/RW-77/ASE-Project-Website/edit/gh-pages/index.md)
 3. Documentation is below:
-[Github Pages Basics](https://docs.github.com/categories/github-pages-basics/)
-[Formatting Documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Github Pages Basics](https://docs.github.com/categories/github-pages-basics/)
+- [Formatting Documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-**Website will be revamped during the summer.**
+**Notice: Website will be revamped during the summer.**
