@@ -24,6 +24,15 @@ List of Updates for our ASE Capstone Project
 ### May 9, 2022
 Minimal viable website created.
 
+### May 16, 2022
+Project rough draft completed:
+| Task           | Time required | Assigned to   | Current Status | Finished | 
+|----------------|---------------|---------------|----------------|-----------|
+| Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
+| Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+
 # Further Notes:
 William and Ivan:
 1. Create a github account if you have not already. I will then give you access to the github respository for you to make changes.
