@@ -25,7 +25,7 @@ List of Updates for our ASE Capstone Project
 Minimal viable website created.
 
 ### May 16, 2022
-Project rough draft completed:
+Project rough draft completed.
 | Task           | Progress | Details | Link |
 |----------------|----------------|-------------------|---|
 | Grant Proposal | **100%** | N/A | [Grant Proposal](https://docs.google.com/document/d/1uwAaTZLhTKGKzdoMcx8Fyey6IN24OBE2zj9iJW_6L3Y/edit?usp=sharing) |
