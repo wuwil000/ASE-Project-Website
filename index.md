@@ -26,12 +26,19 @@ Minimal viable website created.
 
 ### May 16, 2022
 Project rough draft completed:
-| Task           | Time required | Assigned to   | Current Status | Finished | 
-|----------------|---------------|---------------|----------------|-----------|
-| Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
-| Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| Task           | Progress | Details | Link |
+|----------------|----------------|-------------------|---|
+| Grant Proposal | **100%** | N/A | [Grant Proposal](https://docs.google.com/document/d/1uwAaTZLhTKGKzdoMcx8Fyey6IN24OBE2zj9iJW_6L3Y/edit?usp=sharing) |
+| Letter of Intent  | **100%** | N/A | [Letter of Intent](https://docs.google.com/document/d/1Huto1KxBrbhs8ToPtbkEFpRDRCuYeFpXBmTkSJyfcoc/edit?usp=sharing) |
+| Need/Solution   | **100%** | N/A | [Need/Solution](https://docs.google.com/document/d/1eqKONL8HjXkXPP0mR84XURHEtDzipvJWDeroizjIAq0/edit?usp=sharing) |
+| Overview   | **100%** | N/A | [Overview](https://docs.google.com/document/d/10yOMtrRMPGmEnnpf85cZ4uPpLt7-Upxn5tX7Lk_0kyU/edit?usp=sharing) |
+| Summary   | **100%** | N/A | [Summary](https://docs.google.com/document/d/1nm-Hd1MXOqdgbVZULl48HHBLvyWtFArOQIm0Owb35jw/edit?usp=sharing) |
+| Goal  | **100%** | N/A | [Goal](https://docs.google.com/document/d/1TrThzDRuqBDP6GYckm7Eh6yzgE_cE_IWBi99ncZDRSc/edit?usp=sharing) |
+| Budget   | **100%** | N/A | [Budget](https://docs.google.com/document/d/1mDMSC2COWxnNJUYqgioF6NEWSxJf7Be1caHKl0agyJM/edit?usp=sharing) |
+| Method   | **100%** | N/A | [Method](https://docs.google.com/document/d/1rVFN9Wa4tiuZwTu4As3JkrNAqrABMSdGB_lGjo22Akg/edit?usp=sharing) |
+| Evaluation   | **100%** | N/A | [Evaluation](https://docs.google.com/document/d/1kBhOUcfTMovC910tyr6Lax10N3dttgnFbCY17Acs2Io/edit?usp=sharing) |
+| Bios & Headshots   | **100%** | <ul><li>[x] William</li><li>[x] Ivan</li><li>[x] Caleb</li></ul> | <ul><li>[William](https://docs.google.com/document/d/1dEiEzJn_jKYzyRYpxsVT9xdYkSuuVtFzWwmCuLV_zwo/edit?usp=sharing)</li><li>[Ivan](https://docs.google.com/document/d/1jGm3XOO_LXsJZrT3qHXE57zrzHLsBZe8fjI4qfmJVxg/edit?usp=sharing)</li><li>[Caleb](https://docs.google.com/document/d/1j4c6XT63bv-wdD5kglDgKIbRX-of2wylD6bCdA3qZzM/edit?usp=sharing)</li></ul> |
+
 
 # Further Notes:
 William and Ivan:
