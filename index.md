@@ -40,14 +40,8 @@ Project rough draft completed.
 | Evaluation   | **100%** | N/A | [Evaluation](https://docs.google.com/document/d/1kBhOUcfTMovC910tyr6Lax10N3dttgnFbCY17Acs2Io/edit?usp=sharing) |
 | Bios & Headshots   | **100%** | <ul><li>[x] William</li><li>[x] Ivan</li><li>[x] Caleb</li></ul> | <ul><li>[William](https://docs.google.com/document/d/1dEiEzJn_jKYzyRYpxsVT9xdYkSuuVtFzWwmCuLV_zwo/edit?usp=sharing)</li><li>[Ivan](https://docs.google.com/document/d/1jGm3XOO_LXsJZrT3qHXE57zrzHLsBZe8fjI4qfmJVxg/edit?usp=sharing)</li><li>[Caleb](https://docs.google.com/document/d/1j4c6XT63bv-wdD5kglDgKIbRX-of2wylD6bCdA3qZzM/edit?usp=sharing)</li></ul> |
 
+### Aug 1, 2022
+Team meeting held. Initial project idea determined to be unfeasible given lack of sufficient funds.
 
-# Further Notes:
-William and Ivan:
-1. Create a github account if you have not already. I will then give you access to the github respository for you to make changes.
-2. The website is markdown right now. Edit the .md file.
-[Website edit page (requires authentication)](https://github.com/RW-77/ASE-Project-Website/edit/gh-pages/index.md)
-3. Documentation is below:
-- [Github Pages Basics](https://docs.github.com/categories/github-pages-basics/)
-- [Formatting Documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-**Notice: Website will be revamped during the summer.**
+### Aug 12, 2022
+Team meeting held. New project idea proposed.
