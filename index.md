@@ -44,4 +44,6 @@ Project rough draft completed.
 Team meeting held. Initial project idea determined to be unfeasible given lack of sufficient funds.
 
 ### Aug 12, 2022
-Team meeting held. New project idea proposed.
+Team meeting held. New project idea proposed. 
+https://docs.google.com/document/d/1vLqeaCHEdFjoJAP2mTRqzuUlQ8qIXp6wMO58diqAo6A/edit?usp=sharing
+
