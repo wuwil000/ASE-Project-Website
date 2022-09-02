@@ -47,3 +47,6 @@ Team meeting held. Initial project idea determined to be unfeasible given lack o
 Team meeting held. New project idea proposed. 
 https://docs.google.com/document/d/1vLqeaCHEdFjoJAP2mTRqzuUlQ8qIXp6wMO58diqAo6A/edit?usp=sharing
 
+### Sep 2, 2022
+Held group meeting after school. Updated project proposal documents and scheduled weekend meeting to plan our design.
+
