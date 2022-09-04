@@ -50,3 +50,6 @@ https://docs.google.com/document/d/1vLqeaCHEdFjoJAP2mTRqzuUlQ8qIXp6wMO58diqAo6A/
 ### Sep 2, 2022
 Held group meeting after school. Updated project proposal documents and scheduled weekend meeting to plan our design.
 
+### Sep 4, 2022
+Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
+[IMG_20220904_141958](https://user-images.githubusercontent.com/72991139/188333803-184f2cfa-18f4-4052-ac37-ad962b52a408.jpg)
