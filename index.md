@@ -44,9 +44,15 @@ Project rough draft completed.
 Team meeting held. Initial project idea determined to be unfeasible given lack of sufficient funds.
 
 ### Aug 12, 2022
-Team meeting held. New project idea proposed. 
+Team meeting held. New project ideas proposed. 
 https://docs.google.com/document/d/1vLqeaCHEdFjoJAP2mTRqzuUlQ8qIXp6wMO58diqAo6A/edit?usp=sharing
 
-### Sep 2, 2022
-Held group meeting after school. Updated project proposal documents and scheduled weekend meeting to plan our design.
+### Aug 20, 2022
+New main project idea about a robot made of VEX EDR parts for economical convenience. No key details down yet.
+https://docs.google.com/document/d/1zyP9JSa1w9Mg4sK5RWv0v7XD-uabAFtUYA9GuWV6zr0/edit?usp=sharing
 
+### Aug 24, 2022
+Discussed with Mr. Barrett over new project idea to set up meeting about it next week. Updated and refined project ideas and main idea.
+
+### Aug 31, 2022
+Held group meeting after school after talking with Mr. Barrett. Updated project proposal documents and scheduled weekend meeting to plan our design.
