@@ -56,3 +56,7 @@ Discussed with Mr. Barrett over new project idea to set up meeting about it next
 
 ### Aug 31, 2022
 Held group meeting after school after talking with Mr. Barrett. Updated project proposal documents and scheduled weekend meeting to plan our design.
+
+### Sep 4, 2022
+Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
+[IMG_20220904_141958](https://user-images.githubusercontent.com/72991139/188333803-184f2cfa-18f4-4052-ac37-ad962b52a408.jpg)
