@@ -69,4 +69,7 @@ Held in-person meeting at William's house. Disassembled VEX robot from previous 
 
 ### Sep 16, 2022
 Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
-[IMG_20220904_141958](https://user-images.githubusercontent.com/72991139/188333803-184f2cfa-18f4-4052-ac37-ad962b52a408.jpg)
+![IMG_20220916_171153](https://user-images.githubusercontent.com/79298723/191036675-175ba882-be88-42ef-b643-fe19968dc2d5.jpg)
+![IMG_20220916_184252](https://user-images.githubusercontent.com/79298723/191036692-313ba43e-2669-440b-8c39-ac46529c13a9.jpg)
+
+
