@@ -62,13 +62,16 @@ Held in-person meeting at William's house. Disassembled VEX robot from previous 
 ![IMG_20220904_141958](https://user-images.githubusercontent.com/72991139/188333803-184f2cfa-18f4-4052-ac37-ad962b52a408.jpg)
 
 ### Sep 10, 2022
-Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
+Researched heavily on existing designs of tranmissions and how they operate. Started creating basic general ideas of how the robot and tranmission system will work. Drew out baisc blueprints of the systems and robots which are attached as photos below. 
+(We decided to make the tranmission only two speed due to size contraints.)
 ![rn_image_picker_lib_temp_475e768d-f0a1-4c7e-9406-514878889b49](https://user-images.githubusercontent.com/79298723/191036134-42b8a8a8-2f8d-4517-97fd-cf7923f984d6.jpg)
 ![310DC0DA-8047-4DD9-8D8C-BA2016DABC37](https://user-images.githubusercontent.com/79298723/191036166-3840a40e-c5d0-44e3-89b6-a19b4dd04299.jpg)
 
 
 ### Sep 16, 2022
-Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
+Started creating and assembling the tranmission and wheel system that was deigned previously. Also we started clalculating amount of parts necessary for the project. We currently require 4 big gears, 1 medium ~36 tooth gear, 3 small 12 tooth gears, along with two servo motors.
+Some issues we ran into were lacking parts to connect the base pieces at 45 degrees which we decide to possibly make makeshift ones in the future. 
+After many iterations we finally managed to get a rough and basic design of the tranmission and plan on incopratting the servo to be able to shift gears next meeting. Pictures are attached below:
 ![IMG_20220916_171153](https://user-images.githubusercontent.com/79298723/191036675-175ba882-be88-42ef-b643-fe19968dc2d5.jpg)
 ![IMG_20220916_184252](https://user-images.githubusercontent.com/79298723/191036692-313ba43e-2669-440b-8c39-ac46529c13a9.jpg)
 
