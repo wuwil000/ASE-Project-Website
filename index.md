@@ -60,3 +60,13 @@ Held group meeting after school after talking with Mr. Barrett. Updated project 
 ### Sep 4, 2022
 Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
 [IMG_20220904_141958](https://user-images.githubusercontent.com/72991139/188333803-184f2cfa-18f4-4052-ac37-ad962b52a408.jpg)
+
+### Sep 10, 2022
+Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
+![rn_image_picker_lib_temp_475e768d-f0a1-4c7e-9406-514878889b49](https://user-images.githubusercontent.com/79298723/191036134-42b8a8a8-2f8d-4517-97fd-cf7923f984d6.jpg)
+![310DC0DA-8047-4DD9-8D8C-BA2016DABC37](https://user-images.githubusercontent.com/79298723/191036166-3840a40e-c5d0-44e3-89b6-a19b4dd04299.jpg)
+
+
+### Sep 16, 2022
+Held in-person meeting at William's house. Disassembled VEX robot from previous year. Picture attached below.!
+[IMG_20220904_141958](https://user-images.githubusercontent.com/72991139/188333803-184f2cfa-18f4-4052-ac37-ad962b52a408.jpg)
