@@ -1,4 +1,4 @@
-# CNC Machine
+# Robot
 
 # About
 
