@@ -77,3 +77,6 @@ After many iterations we finally managed to get a rough and basic design of the 
 
 ### Sep 23, 2022
 Had a group meeting at William's house and started constructing more transmissions. (Created the basic form of 3/4 needed transmission systems so we made 2 more this meeting and don't have enough supplies to start on the last one) We ran into issues over the gear shifting servo mechanism as the plate that is supposed to shift the gear system twists and turns instead of actually moving the axle. It may need adjusting and redesigning. Our need list is also expanding as we also need more 2" standoffs and the 45 degree angle parts. Pictures are attached below of the process and products created this meeting:
+
+![IMG_20220923_174832 (1)](https://user-images.githubusercontent.com/79298723/192664875-6c8a5879-80f2-4036-bf45-050969026d23.jpg)
+![IMG_20220923_170552 (1)](https://user-images.githubusercontent.com/79298723/192664889-63ec87b1-04fa-4664-bec5-46ba32776a7d.jpg)
