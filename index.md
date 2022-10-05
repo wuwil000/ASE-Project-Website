@@ -90,4 +90,5 @@ https://drive.google.com/file/d/1aFD7IzYjvhQks1yMLB_fpNdc9nvhxdHX/view?usp=drive
 ![IMG_20220930_182435](https://user-images.githubusercontent.com/72991139/193980514-2e3c3bdb-7960-481f-8823-61ae34752816.jpg)
 ![IMG_20220930_182457](https://user-images.githubusercontent.com/72991139/193980519-71e0103b-913e-435d-a01a-a84eb49da19e.jpg)
 
-
+### Oct 5, 2022
+Scheduled meeting with Mr. Barret on Oct 6 before school at 7:30 am.
