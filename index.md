@@ -84,3 +84,10 @@ Had a group meeting at William's house and started constructing more transmissio
 ### Sep 30, 2022
 Continued assembling the transmission systems and tested and attempted different ways of making the motor subsystem that moves the shaft to shift the transmission between gear ratios. We have one working one by heavily modifying the design and structure but still need to test it using code and actual motor driven movement which we will try next meeting. There were issues with our original design of this subsystem and need more parts to make it work which we will need to pick up this week. There is bit of concern about the clearance of the gears when they shift, but decided to make changes only when it becomes an issue. Pictures of results are below along with a link to a video demonstrating the working transmission prototype we created.
 https://drive.google.com/file/d/1aFD7IzYjvhQks1yMLB_fpNdc9nvhxdHX/view?usp=drivesdk
+
+![IMG_20220930_155927](https://user-images.githubusercontent.com/72991139/193980499-49a10991-0478-4387-ac71-e3b70af8a6e4.jpg)
+![IMG_20220930_182415](https://user-images.githubusercontent.com/72991139/193980504-e3cacfd4-2c3e-4a57-8d83-b9b5f2b867cc.jpg)
+![IMG_20220930_182435](https://user-images.githubusercontent.com/72991139/193980514-2e3c3bdb-7960-481f-8823-61ae34752816.jpg)
+![IMG_20220930_182457](https://user-images.githubusercontent.com/72991139/193980519-71e0103b-913e-435d-a01a-a84eb49da19e.jpg)
+
+
