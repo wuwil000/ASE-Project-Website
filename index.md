@@ -92,3 +92,6 @@ https://drive.google.com/file/d/1aFD7IzYjvhQks1yMLB_fpNdc9nvhxdHX/view?usp=drive
 
 ### Oct 5, 2022
 Scheduled meeting with Mr. Barret on Oct 6 before school at 7:30 am.
+
+### Oct 6, 2022
+Ivan showed the 4 transmission gears to Mr. Barret before school. Group members met in ASE room to obtain necessary missing parts to modify remaining 3/4 transmission gears which had a defect.
