@@ -1,5 +1,8 @@
 # Robot
 
+## (Ours will be superior)
+![wall-e](https://user-images.githubusercontent.com/79298723/194796676-f5c6352c-47c7-43df-843e-571fb6ec6721.jpg)
+
 # About
 
 Our capstone project idea is a multi-use CNC machine built from scratch which will be able to engrave, drill, and cut a wide variety of materials, especially wood and metal. 
