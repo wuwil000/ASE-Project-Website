@@ -102,5 +102,6 @@ Party at William's house:
 - Replaced transmission support frames with sturdier pieces
 - Constructed remaning transmission gears
 - Completed vehicle base, used aluminum plates to connect all 4 transmissions
+- 
 ![image_50736129](https://user-images.githubusercontent.com/79298723/194796317-cd78e045-9e38-4819-a430-043e51b4abbe.JPG)
 ![image_50405889](https://user-images.githubusercontent.com/79298723/194796326-5af9a77c-8a57-4564-9071-6e1a57014f5a.JPG)
