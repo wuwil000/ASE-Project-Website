@@ -98,7 +98,7 @@ Scheduled meeting with Mr. Barret on Oct 6 before school at 7:30 am.
 Ivan showed the 4 transmission gears to Mr. Barret before school. Group members met in ASE room to obtain necessary missing parts to modify remaining 3/4 transmission gears which had a defect.
 
 ### Oct 8, 2022
-Party at William's house:
+**Party at William's house:**
 - Replaced transmission support frames with sturdier pieces
 - Constructed remaning transmission gears
 - Completed vehicle base, used aluminum plates to connect all 4 transmissions
