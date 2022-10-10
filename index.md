@@ -4,8 +4,6 @@
 
 Our capstone project idea is a multi-use CNC machine built from scratch which will be able to engrave, drill, and cut a wide variety of materials, especially wood and metal. 
 
-![img](https://www.urdesignmag.com/wp-content/uploads/2020/05/how-are-cnc-machines-impacting-modern-manufacturing-2.jpg)
-
 # Our Team
 
 ### William Wu
@@ -95,3 +93,11 @@ Scheduled meeting with Mr. Barret on Oct 6 before school at 7:30 am.
 
 ### Oct 6, 2022
 Ivan showed the 4 transmission gears to Mr. Barret before school. Group members met in ASE room to obtain necessary missing parts to modify remaining 3/4 transmission gears which had a defect.
+
+### Oct 8, 2022
+Party at William's house:
+- Replaced transmission support frames with sturdier pieces
+- Constructed remaning transmission gears
+- Completed vehicle base, used aluminum plates to connect all 4 transmissions
+![image_50736129](https://user-images.githubusercontent.com/79298723/194796317-cd78e045-9e38-4819-a430-043e51b4abbe.JPG)
+![image_50405889](https://user-images.githubusercontent.com/79298723/194796326-5af9a77c-8a57-4564-9071-6e1a57014f5a.JPG)
