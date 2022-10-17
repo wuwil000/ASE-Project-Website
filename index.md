@@ -106,3 +106,8 @@ Ivan showed the 4 transmission gears to Mr. Barret before school. Group members 
 ![image_50736129](https://user-images.githubusercontent.com/79298723/194796317-cd78e045-9e38-4819-a430-043e51b4abbe.JPG)
 Caption: William is working hard.
 ![image_50405889](https://user-images.githubusercontent.com/79298723/194796326-5af9a77c-8a57-4564-9071-6e1a57014f5a.JPG)
+
+### October 15, 2022
+There wasn't a meeting or build day this week due to scheduling issues, but we did grab more parts necessary for building the base and actual strcuture of the robot. We also made a new design for the main frame and plates allowing for a flat metal surface on top for storage as well as a latch system to open said plates to access cortex which will be in the middle. A basic sketch is attached below.
+![IMG_20221016_235729](https://user-images.githubusercontent.com/72991139/196092734-2b7c3fcd-2471-4047-930d-b6f6ad0b7992.jpg)
+
