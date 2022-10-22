@@ -14,7 +14,14 @@ using namespace vex;
 vex::brain       Brain;
 
 // define your global instances of motors and other devices here
-
+#define frontRight = Motor(Ports.PORT1, False);
+#define frontLeft = Motor(Ports.PORT3, False);
+#define backRight = Motor(Ports.PORT5, False);
+#define backLeft = Motor(Ports.PORT7, False);
+#define frontRightServo = Motor(Ports.PORT2, False);
+#define frontLeftServo = Motor(Ports.PORT4, False);
+#define backRightServo = Motor(Ports.PORT6, False);
+#define backLeftServo = Motor(Ports.PORT8, False);
 
 int main() {
 

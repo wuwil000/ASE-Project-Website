@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.2.0",
+		"json": 1
+	},
+	"project": {
+		"name": "ASE-Movement",
+		"description": "Source code for omni-directional movement system for robot.",
+		"creationDate": "10/21/2022, 6:20:51 PM",
+		"platform": "EXP",
+		"language": "cpp",
+		"slot": 1,
+		"sdkVersion": "EXP_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	}
+}
